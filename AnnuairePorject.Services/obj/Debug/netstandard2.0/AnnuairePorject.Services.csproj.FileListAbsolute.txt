@@ -1,0 +1,11 @@
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\bin\Debug\netstandard2.0\AnnuairePorject.Services.deps.json
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\bin\Debug\netstandard2.0\AnnuairePorject.Services.dll
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\bin\Debug\netstandard2.0\AnnuairePorject.Services.pdb
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\bin\Debug\netstandard2.0\AnnuaireProjexct.BLL.dll
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\bin\Debug\netstandard2.0\AnnuaireProjexct.BLL.pdb
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\obj\Debug\netstandard2.0\AnnuairePorject.Services.csprojAssemblyReference.cache
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\obj\Debug\netstandard2.0\AnnuairePorject.Services.AssemblyInfoInputs.cache
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\obj\Debug\netstandard2.0\AnnuairePorject.Services.AssemblyInfo.cs
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\obj\Debug\netstandard2.0\AnnuairePorject.Services.csproj.CopyComplete
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\obj\Debug\netstandard2.0\AnnuairePorject.Services.dll
+C:\Users\formation\source\repos\AnnuaireProject\AnnuairePorject.Services\obj\Debug\netstandard2.0\AnnuairePorject.Services.pdb

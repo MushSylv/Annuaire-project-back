@@ -1,0 +1,11 @@
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\bin\Debug\netstandard2.0\AnnuaireProject.DAL.deps.json
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\bin\Debug\netstandard2.0\AnnuaireProject.DAL.dll
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\bin\Debug\netstandard2.0\AnnuaireProject.DAL.pdb
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\bin\Debug\netstandard2.0\AnnuaireProjexct.BLL.dll
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\bin\Debug\netstandard2.0\AnnuaireProjexct.BLL.pdb
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\obj\Debug\netstandard2.0\AnnuaireProject.DAL.csprojAssemblyReference.cache
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\obj\Debug\netstandard2.0\AnnuaireProject.DAL.AssemblyInfoInputs.cache
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\obj\Debug\netstandard2.0\AnnuaireProject.DAL.AssemblyInfo.cs
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\obj\Debug\netstandard2.0\AnnuaireProject.DAL.csproj.CopyComplete
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\obj\Debug\netstandard2.0\AnnuaireProject.DAL.dll
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProject.DAL\obj\Debug\netstandard2.0\AnnuaireProject.DAL.pdb
