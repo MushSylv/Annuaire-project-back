@@ -4,6 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using AnnuairePorject.Services;
 using AnnuairePorject.Services.Authentication.Interfaces;
+using AnnuairePorject.Services.Users;
+using AnnuairePorject.Services.Users.Interface;
 using AnnuaireProject.DAL.Users;
 using AnnuaireProjexct.BLL.Users.Business;
 using AnnuaireProjexct.BLL.Users.Interfaces;
@@ -33,6 +35,7 @@ namespace AnnuaireProject
             services.AddSingleton<ILoginService, LoginService>();
             services.AddSingleton<IUserBusiness, UserBusiness>();
             services.AddSingleton<IUserRepository, InMemoryUserRepository>();
+            services.AddSingleton<IUserService, UserService>();
             services.AddControllers();
         }
 

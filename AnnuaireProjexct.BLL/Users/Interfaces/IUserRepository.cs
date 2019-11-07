@@ -8,6 +8,6 @@ namespace AnnuaireProjexct.BLL.Users.Interfaces
     public interface IUserRepository
     {
         User GetByLogin(string login, string password);
-        Guid Create(string login, string password);
+        bool Create(User user);
     }
 }

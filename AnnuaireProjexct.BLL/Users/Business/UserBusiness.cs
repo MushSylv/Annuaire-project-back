@@ -21,9 +21,14 @@ namespace AnnuaireProjexct.BLL.Users.Business
             return auth == null ? null : auth;
         }
 
-        public Guid Create(string login, string password)
+        public Guid Create(User user)
         {
-            var create = _userRepository.;
+           var userFind = _userRepository.Create(user);
+           if (userFind == false)
+            {
+                throw new Exception("Cet utilisateur existe déja");
+            } 
+            return user.Id;
         }
     }
 }

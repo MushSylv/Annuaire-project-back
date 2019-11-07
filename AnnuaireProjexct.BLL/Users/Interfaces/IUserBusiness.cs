@@ -8,6 +8,6 @@ namespace AnnuaireProjexct.BLL.Users.Interfaces
     public interface IUserBusiness
     {
         User Authenticate(string login, string password);
-        Guid Create(string login, string password);
+        Guid Create(User user);
     }
 }

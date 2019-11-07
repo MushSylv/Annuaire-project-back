@@ -20,14 +20,15 @@ namespace AnnuaireProject.DAL.Users
                 
         }
 
-        public Guid Create(string login, string password)
+        public bool Create(User user)
         {
-            var user = users.FirstOrDefault(u => u.Login == login && u.Password == password);
-            if (user != null)
+            var findUser = users.FirstOrDefault(u => u.Login == user.Login && u.Password == user.Password);
+            if (findUser != null)
             {
-                return ;
+                return false;
             }
-            return user.Id;
+            users.Add(user);
+            return true;
         }
 
         public User GetByLogin(string login, string password)

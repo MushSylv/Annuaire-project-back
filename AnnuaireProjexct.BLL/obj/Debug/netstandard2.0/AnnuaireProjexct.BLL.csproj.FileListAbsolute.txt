@@ -5,3 +5,4 @@ C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProjexct.BLL\obj\Debug\n
 C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProjexct.BLL\obj\Debug\netstandard2.0\AnnuaireProjexct.BLL.AssemblyInfo.cs
 C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProjexct.BLL\obj\Debug\netstandard2.0\AnnuaireProjexct.BLL.dll
 C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProjexct.BLL\obj\Debug\netstandard2.0\AnnuaireProjexct.BLL.pdb
+C:\Users\formation\source\repos\AnnuaireProject\AnnuaireProjexct.BLL\obj\Debug\netstandard2.0\AnnuaireProjexct.BLL.csprojAssemblyReference.cache
